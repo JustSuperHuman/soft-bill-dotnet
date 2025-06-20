@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftBill", "SoftBill.csproj", "{3CABA496-9447-E562-0744-54CD7EA5D57B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CABA496-9447-E562-0744-54CD7EA5D57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CABA496-9447-E562-0744-54CD7EA5D57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CABA496-9447-E562-0744-54CD7EA5D57B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CABA496-9447-E562-0744-54CD7EA5D57B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {739080F2-1465-4DF8-8F3F-16F550227E2A}
+	EndGlobalSection
+EndGlobal
